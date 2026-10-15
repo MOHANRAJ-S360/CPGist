@@ -4,7 +4,7 @@
   "redirects": [
     {
       "source": "/signin",
-      "destination": "https://cpgistai.vercel.app/?mode=signup",
+      "destination": "https://cpgistai.vercel.app/",
       "permanent": false
     },
     {
